@@ -10,3 +10,9 @@ I propose it again under the latest Laravel version instead the old version 6.
 I just wanted to share it, my goal for the curent year is mastering Laravel and it's ecosystem.
 
 bye n' ty
+
+### Some screenshots
+
+<img src="public/images/home-page-shot.png" width="800">
+
+<img src="public/images/profile-page-shot.png" width="800">
