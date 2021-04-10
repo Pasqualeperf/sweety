@@ -1,9 +1,4 @@
 <x-app-layout>
-    {{-- <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
-    </x-slot> --}}
     <div class="lg:flex lg:justify-between max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:px-8">
         <div class="lg:w-1/6">
             <x-sidebar></x-sidebar>
